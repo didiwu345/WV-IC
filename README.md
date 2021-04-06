@@ -23,4 +23,15 @@ output values are:
 * rcr: right-censor rate
 
 # Sample data analysis
-Analysis of sample data is included in 
+Analysis of sample data is included in 'Sample_data_analysis' file. The sample data is simulated for 500 subjects with:
+* X: Genetic variant of 5 SNPs
+* Z: 2-dim adjustment covariate (Binomial(0.5) and Unif(0,2))
+* LR: left and right bound times that bracket the unobserved event times
+* r: set to 0 for Cox proportional hazard model
+* trunct: left truncation time (Unif(0, 0.25))
+
+The exact survival time is generated from the following cumulative hazard function:
+
+'''
+\Lambda 
+'''
