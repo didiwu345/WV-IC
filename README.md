@@ -4,9 +4,7 @@ This tutorial demonstrates the implmentation of proposed interaction and associa
 
 # Weighted V test (WVIC) usage
 To perform the test, use function _WVIC_comprisk_main.R_ in 'R_code' file.
-'''
-X: 
-'''
+* X:
 
 # Sample data analysis
 Analysis of sample data is included in 
