@@ -32,7 +32,7 @@ Analysis of sample data is included in 'Sample_data_analysis' file. The sample d
 
 The exact survival time is generated from the following cumulative hazard function:
 ```math
-\Lambda
+$'\Lambda'$
 ```
 
 
