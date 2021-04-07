@@ -31,7 +31,7 @@ Analysis of sample data is included in 'Sample_data_analysis' file. The sample d
 * trunct: left truncation time (Unif(0, 0.25))
 
 The exact survival time is generated from the following cumulative hazard function:
-$\Lambda$
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 
 
