@@ -18,7 +18,7 @@ output values are:
 * coef_est: regression coefficient estimates
 * CovEst: covariance matrix estimate
 * pval: test p-value
-* ifault: p-value calculation error index (refer to 'ifault' in Davies method in _CompQuadForm_ R package)
+* ifault: p-value calculation error index (refer to _'ifault'_ in Davies method in _CompQuadForm_ R package)
 * lcr: left-censor rate
 * rcr: right-censor rate
 
